@@ -5,7 +5,7 @@
 
 Welcome to my **Personal Portfolio Website**, a fully responsive and interactive site built using **HTML, CSS, JavaScript**, and **Bootstrap**. This project is designed to showcase my professional profile, technical skills, and projects in a clean and elegant layout.
 
-🔗 **Live Demo:** [Click Here](#) *(add link once deployed)*
+🔗 **Live Demo:** [Click Here](https://audumbar-patil.github.io/newPortfolio/) 
 📁 **Tech Stack:** `HTML` | `CSS` | `JavaScript` | `Bootstrap`
 
 ---
